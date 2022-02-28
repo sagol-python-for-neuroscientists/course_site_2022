@@ -18,4 +18,6 @@ To get started with python, please follow [these instructions](https://sagol-pyt
 
 ## Homework Assignments
 
-General submission guidelines can be found [here](SubmissionGuidelines.md).
+- [Assignment 1](assignments/assignment1/HW1.md)
+
+  General submission guidelines can be found [here](SubmissionGuidelines.md).
