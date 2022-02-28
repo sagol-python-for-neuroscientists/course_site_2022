@@ -49,3 +49,7 @@ venv/
 
 .idea/
 .vscode/
+
+
+# Assignments
+assignments/assignment1/*.py
