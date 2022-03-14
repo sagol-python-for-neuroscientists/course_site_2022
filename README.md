@@ -21,4 +21,4 @@ To get started with python, please follow [these instructions](https://sagol-pyt
 - [Assignment 1](assignments/assignment1/HW1.md)
 - [Assignment 2](assignments/assignment2/README.md)
 
-  General submission guidelines can be found [here](SubmissionGuidelines.md).
+  General submission guidelines can be found [here](submission-guidelines.md).
