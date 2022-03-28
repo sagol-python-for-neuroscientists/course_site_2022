@@ -54,5 +54,6 @@ venv/
 # Assignments
 # assignments/assignment1/*.py
 assignments/assignment2/hw*.py
+assignments/assignment3/hw*.py
 *.ods*
 *.xlsx

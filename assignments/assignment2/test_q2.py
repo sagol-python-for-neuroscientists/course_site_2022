@@ -1,7 +1,6 @@
 """ Tests for question 2 - Spreading Virus """
 
-from hw2_q2 import meetup, Type, Agent
-
+from hw2_q2 import Agent, Type, meetup
 
 data0 = (
     Agent("Adam", Type.SICK),
@@ -36,9 +35,7 @@ data3 = (
     Agent("Monica", Type.SICK),
 )
 
-data4 = (
-    Agent("Robert", Type.SICK),
-)
+data4 = (Agent("Robert", Type.SICK),)
 
 data5 = ()
 
@@ -108,13 +105,8 @@ def test_data5():
     assert code_result == true_result
 
 
-def test_data6():
-    code_result = meetup(data5)
-    assert isinstance(code_result, list)
-
-
 if __name__ == "__main__":
-    methods = [f"test_data{num}" for num in range(7)]
+    methods = [f"test_data{num}" for num in range(6)]
     errors = []
 
     for method in methods:
