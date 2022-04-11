@@ -2,7 +2,7 @@
 
 ## Date: 28-03-2021
 
-## Due date: 11-04-2022, 15:00
+## Due date: 18-04-2022, 15:00
 
 To access the assignment, please [click here](https://classroom.github.com/a/1R7U0jyH), accept the assignment and begin working through it.
 
