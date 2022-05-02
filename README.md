@@ -22,6 +22,6 @@ To get started with python, please follow [these instructions](https://sagol-pyt
 - [Assignment 2](assignments/assignment2/README.md)
 - [Assignment 3](assignments/assignment3/README.md)
 - [Assignment 4](assignments/assignment4/README.md)
-- [Assignment 5](assignments/assignment5/README.md) - Make sure to read the "special" submission guidelines!
+- [Assignment 5](https://github.com/sagol-python-for-neuroscientists/hw5) - Make sure to read the "special" submission guidelines!
 
   General submission guidelines can be found [here](submission-guidelines.md).
