@@ -10,6 +10,8 @@
 
 **Check the new submission guidelines below**
 
+**THIS IS NOT THE REPO TO FORK!** - [THIS IS.](https://github.com/sagol-python-for-neuroscientists/hw5)
+
 The data available in `data.json` is a table of participants in a questionnaire-type experiment. The data is mostly fine, but upon a closer inspection you may identify a few missing\corrupt values here and there. Our goal is to clean the data and analyze the results. Define a class that have several methods that process the given data. The first are:
 
 ```python
