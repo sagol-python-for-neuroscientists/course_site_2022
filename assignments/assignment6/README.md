@@ -2,7 +2,7 @@
 
 ### Date: 17-05-2022
 
-### Due date: 07-06-2022
+### Due date: 11-06-2022
 
 ## Three-dimensional _Submarines_ Game
 
